@@ -55,15 +55,3 @@ You can customize the `select_mini.cfg` file to match your specific requirements
 - Retraction settings
 
 Remember to save your changes and re-import the updated configuration into your 3D printing software.
-
-## Troubleshooting
-
-If you encounter any issues while using this configuration or have questions about your "Select Mini" 3D printer, please refer to the [troubleshooting guide](link-to-troubleshooting) or seek help from the 3D printing community.
-
-## Contributing
-
-We welcome contributions from the community to improve this configuration file. If you have suggestions, improvements, or bug fixes, please submit a pull request. Be sure to follow our [contribution guidelines](link-to-contributing-guidelines) when making changes.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this configuration file as long as you adhere to the terms of the license.
