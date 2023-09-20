@@ -10,9 +10,6 @@ This repository contains a custom configuration file (`select_mini.cfg`) for the
 2. [Configuration File](#configuration-file)
 3. [Usage](#usage)
 4. [Customization](#customization)
-5. [Troubleshooting](#troubleshooting)
-6. [Contributing](#contributing)
-7. [License](#license)
 
 ## Getting Started
 
